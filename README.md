@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm BourneShen 👋
+    Welcome to my profile! 我是一名前端工程师，也是一名银行从业者，我喜欢敲代码，也喜欢造轮子。当拿起键盘，就仿佛手里握着搭建世界的积木，只要我想，我就能😎，也许这就是工程师的浪漫😄😄😄……
 
+    作为半道出家的前端工程师，在计算机领域、金融领域，我都欠缺了太多，这个仓库是我的一个窗口，我想把自己日常的小demo都放进这里。
 <!--
 **ashenBourne/ashenBourne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
